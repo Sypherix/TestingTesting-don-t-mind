@@ -49,7 +49,7 @@
     "TEXT_LINK": [ "#cba6f7", "#cba6f7" ],
     "TEXT_MUTED": [ "#a6adc8", "#a6adc8" ],
     "TEXT_NORMAL": [ "#1e1e2e", "#1e1e2e" ],
-    "TEXT_PRIMARY": [ "#cdd6f4", "#cdd6f4" ],
+    "TEXT_PRIMARY": [ "#1e1e2e", "#1e1e2e" ],
     "THREAD_CHANNEL_SPINE": [ "#585b70", "#585b70" ],
     "SPOILER_HIDDEN_BACKGROUND": [ "#585b70", "#585b70" ],
     "SPOILER_REVEALED_BACKGROUND": [ "#585b7040", "#585b7040" ]
