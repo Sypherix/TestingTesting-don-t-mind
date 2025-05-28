@@ -48,7 +48,7 @@
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#cba6f7", "#cba6f7" ],
     "TEXT_LINK": [ "#cba6f7", "#cba6f7" ],
     "TEXT_MUTED": [ "#a6adc8", "#a6adc8" ],
-    "TEXT_NORMAL": [ "#cdd6f4", "#cdd6f4" ],
+    "TEXT_NORMAL": [ "#1e1e2e", "#cdd6f4" ],
     "TEXT_PRIMARY": [ "#cdd6f4", "#cdd6f4" ],
     "THREAD_CHANNEL_SPINE": [ "#585b70", "#585b70" ],
     "SPOILER_HIDDEN_BACKGROUND": [ "#585b70", "#585b70" ],
