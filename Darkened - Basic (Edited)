@@ -39,7 +39,12 @@
     "STATUS_DND": ["#f23f43"],
     "BACKGROUND_MESSAGE_AUTOMOD": ["#f23f430d"],
     "BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#f23f431a"],
-    "BACKGROUND_MODIFIER_HOVER": ["#141415"]
+    "BACKGROUND_MODIFIER_HOVER": ["#141415"],
+    "BUTTON_BACKGROUND": ["#1D1D21"],
+    "BUTTON_HOVER_BACKGROUND": ["#313244"],
+    "BUTTON_PRESSED_BACKGROUND": ["#6c7086"],
+    "BUTTON_ICON": ["#dbdee1"],
+    "BUTTON_RIPPLE": ["#6c7086"]
   },
   "rawColors": {
     "RED_400": "#F83838",
@@ -60,7 +65,10 @@
     "version": "0",
     "customOverlays": true,
     "mentionLineColor": "#e3e3e3",
-    "icons": {}
+    "icons": {
+      "ic_search_24px": "#dbdee1",
+      "ic_mute_24px": "#dbdee1"
+    }
   },
   "spec": 2
 }
