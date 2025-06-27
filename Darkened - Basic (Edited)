@@ -22,6 +22,7 @@
     "EMBED_BACKGROUND": ["#111011"],
     "EMBED_BACKGROUND_ALTERNATE": ["#111011"],
     "INTERACTIVE_MUTED": ["#262627"],
+    "INTERACTIVE_NORMAL": ["#dbdee1"],
     "PANEL_BG": ["#0C0C0D"],
     "TEXT_NORMAL": ["#dbdee1"],
     "TEXT_PRIMARY": ["#dbdee1"],
@@ -54,11 +55,11 @@
     "PRIMARY_700": "#0f0f10",
     "PRIMARY_800": "#0C0B0C"
   },
-"plus": {
-  "version": "0",
-  "customOverlays": true,
-  "mentionLineColor": "#e3e3e3",
-  "icons": {}
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "mentionLineColor": "#e3e3e3",
+    "icons": {}
   },
-   "spec": 2
+  "spec": 2
 }
