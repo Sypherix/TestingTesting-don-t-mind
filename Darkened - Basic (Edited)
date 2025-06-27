@@ -52,7 +52,7 @@
     "GREEN_500": "#a6e3a1",
     "YELLOW_500": "#f9e2af",
     "RED_500": "#f38ba8",
-    "PLUM_15": "#45475a",
+    "PLUM_15": "#121212",
     "RED_400": "#F83838",
     "PLUM_14": "#1D1D21",
     "PLUM_16": "#0E0E0F",
@@ -78,7 +78,7 @@
       "StatusOnline": "#a6e3a1",
       "StatusIdle": "#f9e2af",
       "StatusDND": "#f38ba8",
-      "StatusOffline": "#585b70",
+      "StatusOffline": "#121212",
       "StatusStreaming": "#cba6f7"
     }
   },
