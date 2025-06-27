@@ -74,13 +74,7 @@
     "version": "0",
     "customOverlays": true,
     "mentionLineColor": "#e3e3e3",
-    "icons": {
-      "StatusOnline": "#a6e3a1",
-      "StatusIdle": "#f9e2af",
-      "StatusDND": "#f38ba8",
-      "StatusOffline": "#121212",
-      "StatusStreaming": "#cba6f7"
-    }
+    "icons": {}
   },
   "spec": 2
 }
