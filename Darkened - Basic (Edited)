@@ -23,7 +23,7 @@
     "CARD_SECONDARY_BG": ["#0E0E0F"],
     "EMBED_BACKGROUND": ["#0E0E0F"],
     "EMBED_BACKGROUND_ALTERNATE": ["#111011"],
-    "INTERACTIVE_ACTIVE": ["#1a1a1b"],
+    "INTERACTIVE_ACTIVE": ["#dbdee1"],
     "INTERACTIVE_HOVER": ["#dbdee1"],
     "INTERACTIVE_MUTED": ["#1c1c1d"],
     "INTERACTIVE_NORMAL": ["#dbdee1"],
